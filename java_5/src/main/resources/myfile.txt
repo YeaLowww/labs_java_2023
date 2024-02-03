@@ -1,0 +1,5 @@
+apple
+apple, banana, orange
+apple, banana, orange, kiwi, grape, melon, cherry, pear, peach, plum
+apple banana orange
+apple banana orange kiwi grape melon cherry
